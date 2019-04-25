@@ -17,7 +17,7 @@ Any construction min. 75ft from any floodline (OK - yellow lines on map above). 
 
 
 
-###Parking specifications - **ZN 3.06**
+### Parking specifications - **ZN 3.06**
 
 * For restaurants: Min. 1 parking slots per 100sqf. Preliminary project = 12000 sqf = 120 slots (preliminary study has 132 slots)
 * Access lanes between slots: 24ft wide
