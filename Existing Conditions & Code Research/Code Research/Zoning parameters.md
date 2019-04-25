@@ -1,6 +1,6 @@
 ## Zoning parameters
 
-![](zoning map.png)
+![](zoning%20map.png)
 
 
 
