@@ -1,3 +1,4 @@
+ - [https://master.first-draft.xyz/d/20190503_Oakfire/](https://master.first-draft.xyz/d/20190503_Oakfire/)
  - History
 	 - Napolitano pizza tradition
 		 - their culinary approach: combining the old and new
@@ -70,9 +71,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTE5Mzc3LDIwNTI5NDM4MTMsMTA2Mj
-M5OTg3NywxMzgxMjk4NDU3LDE2MzQ0MzM2MDMsLTE3MjY5MTg2
-MTUsLTExNTY5Njg0NDAsLTEyNTQ5MjM3NDYsMTg3NzkwMjg3OS
-wxNTQ2NTAzNzMxLDYzNzIwMDQzOCwxNjQ0MTg0NTk3LC0yMDg4
-NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTQwNTAzOTczNSwtMzIxMTkzNzcsMjA1Mj
+k0MzgxMywxMDYyMzk5ODc3LDEzODEyOTg0NTcsMTYzNDQzMzYw
+MywtMTcyNjkxODYxNSwtMTE1Njk2ODQ0MCwtMTI1NDkyMzc0Ni
+wxODc3OTAyODc5LDE1NDY1MDM3MzEsNjM3MjAwNDM4LDE2NDQx
+ODQ1OTcsLTIwODg3NDY2MTJdfQ==
 -->
