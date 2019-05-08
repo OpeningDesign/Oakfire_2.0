@@ -47,6 +47,7 @@ eyJoaXN0b3J5IjpbLTIwMjA3NzM5Ml19
     * 2 toilets for 16 to 35 employees
 * General rule of thumb: 1 female WC per 30 people + 1 male WC per 60 people
 * IBC https://codes.iccsafe.org/content/IBC2018/chapter-29-plumbing-systems (table 2902.1) and https://codes.iccsafe.org/content/IPC2018/chapter-4-fixtures-faucets-and-fixture-fittings (section 424.2)
+* Version used in WI is https://up.codes/viewer/wyoming/ibc-2015/chapter/29/plumbing-systems#2902.1 (but parameters are identical as the version above)
     * 1 male WC per 75 people
     * 1 female WC per 75 people
     * 1 lavatory per 200
