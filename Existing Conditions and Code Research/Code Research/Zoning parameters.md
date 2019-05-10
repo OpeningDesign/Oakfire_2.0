@@ -5,7 +5,7 @@
 
 
 
-Maximum seating capacity: 265 indoor + 64 outdoor = 329 seats rounding to 330
+Maximum seating capacity: 265 indoor + 64 outdoor = 329 seats rounding to 330 - Occupancy according to IBC: **509**
 
 Rule of thumb = 1 server/25 people = 330/25 = 14 -> estimating 25/30 employees in total
 
@@ -53,6 +53,7 @@ eyJoaXN0b3J5IjpbLTIwMjA3NzM5Ml19
     * 1 lavatory per 200
     * Max 50% of mens WC can be urinals
 * Thus for 330 seats: 5 women, 5 men (can be 3 men + 2 urinal), 2 lavatories, 2 employees toilets
+* For 509 people (IBC total): 7 men and 7 women
 * ADA stall: 60x60 (plus sink outside of that zone if possible)
 * Normal stall: 32x60
 * Circulation: 60 min
