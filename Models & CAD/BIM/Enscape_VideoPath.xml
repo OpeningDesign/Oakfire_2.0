@@ -18,28 +18,28 @@
             <LookAt x="-0.12507" y="-0.0138684" z="-0.992051" />
         </Keyframe>
         <Keyframe order="4" hour="11.0544">
-            <Position x="-70.3994" y="1.9959" z="-243.158" />
-            <LookAt x="0.661095" y="0.0626184" z="-0.747685" />
+            <Position x="-71.4155" y="1.89154" z="-242.028" />
+            <LookAt x="0.684079" y="0.0955595" z="-0.723121" />
         </Keyframe>
         <Keyframe order="5" hour="12.8566" timestampSeconds="20.0982">
             <Position x="-86.3499" y="2.21461" z="-271.564" />
             <LookAt x="0.97717" y="-0.0453163" z="0.207568" />
         </Keyframe>
         <Keyframe order="6">
-            <Position x="-70.5204" y="2.95283" z="-291.186" />
-            <LookAt x="0.693337" y="-0.148545" z="0.705137" />
+            <Position x="-70.2561" y="2.95283" z="-291.441" />
+            <LookAt x="0.688469" y="-0.0098539" z="0.725199" />
         </Keyframe>
-        <Keyframe order="7" timestampSeconds="27.9903">
+        <Keyframe order="7" fieldOfViewRad="1.57079" timestampSeconds="26.8483">
             <Position x="-29.9065" y="2.5367" z="-291.737" />
-            <LookAt x="-0.691614" y="0.0272282" z="0.721754" />
+            <LookAt x="-0.729549" y="0.103011" z="0.676127" />
         </Keyframe>
-        <Keyframe order="8" hour="10.0566">
-            <Position x="-27.1993" y="2.5367" z="-289.499" />
-            <LookAt x="-0.799917" y="0.0268084" z="0.599512" />
+        <Keyframe order="8" hour="10.0566" timestampSeconds="29.9714">
+            <Position x="-25.7948" y="1.54933" z="-274.031" />
+            <LookAt x="-0.952802" y="0.097162" z="-0.287626" />
         </Keyframe>
         <Keyframe order="9" timestampSeconds="35.8652">
-            <Position x="-38.6445" y="1.58" z="-279.71" />
-            <LookAt x="-0.638784" y="0.0731288" z="-0.765903" />
+            <Position x="-40.4295" y="2.14515" z="-278.506" />
+            <LookAt x="-0.639013" y="0.104399" z="-0.762078" />
         </Keyframe>
         <Keyframe order="10" timestampSeconds="39.8992">
             <Position x="-41.8446" y="2.00404" z="-282.986" />
@@ -58,15 +58,15 @@
             <LookAt x="0.659111" y="-0.0532601" z="-0.750157" />
         </Keyframe>
         <Keyframe order="14" timestampSeconds="55.9425">
-            <Position x="-38.8906" y="1.96003" z="-259.526" />
-            <LookAt x="-0.746187" y="-0.188488" z="-0.638496" />
+            <Position x="-39.6338" y="1.90702" z="-259.082" />
+            <LookAt x="-0.810161" y="0.111276" z="-0.57555" />
         </Keyframe>
         <Keyframe order="15" timestampSeconds="59.8042">
             <Position x="-43.6977" y="1.5991" z="-262.473" />
-            <LookAt x="-0.978282" y="-0.0309951" z="-0.204946" />
+            <LookAt x="-0.945323" y="0.253288" z="-0.205448" />
         </Keyframe>
         <Keyframe order="16" timestampSeconds="64.2833">
-            <Position x="-59.7416" y="1.84968" z="-269.908" />
+            <Position x="-59.8958" y="1.84968" z="-268.904" />
             <LookAt x="-0.983378" y="-0.100702" z="-0.151086" />
         </Keyframe>
         <Keyframe order="17" timestampSeconds="67.8542">
