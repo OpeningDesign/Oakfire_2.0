@@ -69,11 +69,50 @@
 			 - might have to insulate ducts to avoid condensation during summer with garage doors open
 
 
+---
 
+### Pre-application meeting (06.04.19)
+
+- Attendance
+	- Jason J Peters - Village/Town Assistant
+	- Luke Godshall - Kenosha's Land Use Planner
+	- Any M. Buehler - Director - Division of Planning Operations
+	- Bill Morris - Village of Somers - Town Administrator
+	- Peter Juergens - GC 
+	- A few others.. not sure names.
+
+- Need to fill out a conditional use application for outdoor seating. 
+	- \Oakfire_2.0\Existing Conditions and Code Research\Code Research\Conditional Use Application - Village of Somers.pdf
+- Drive curbcut needs to align with a driveway across the street
+- Need 25% green space
+	- (4)  STANDARD NO. SD-4. in Village of Somers - CHAPTER 18 - LAND DIVISION AND PLATTING CONTROL
+		- i added a 'bookmark' in the PDF.
+- Materials need a 50yr warranty.
+- Railing/Fence around outdoor patio (area where liquor will be served)
+- Need to accommodate an area for parking lot access to the site to the south.
+- Signage
+	- Monument signage at corner
+		- Design needs Plan Commission approval 
+		- ZN 3.07
+
+- GC/Owner tasks
+	- Work with retention pond owner to develop screening landscaping to cut off view of Walmart
+	- Need cabaret license for Village Clerk
+	- Pre-development agreement
+	- Civil and Landscaping Plan
+		- Site utilities are stubbed in already
+			- Jason Peters to forward on utility plan
+	  	- Need irrigation system
+		- If parking lot sheet drains to retention pond, some type of vegetation should be introduced to slow runoff. 
+	- Airport overlay application
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTAzOTczNSwtMzIxMTkzNzcsMjA1Mj
-k0MzgxMywxMDYyMzk5ODc3LDEzODEyOTg0NTcsMTYzNDQzMzYw
-MywtMTcyNjkxODYxNSwtMTE1Njk2ODQ0MCwtMTI1NDkyMzc0Ni
-wxODc3OTAyODc5LDE1NDY1MDM3MzEsNjM3MjAwNDM4LDE2NDQx
-ODQ1OTcsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTU3MzExNTc3MSwyMDQ4MzMyNzIsMjI3NT
+gxMDEwLC00MzY1MjY1NzcsMTYyMjM2MTE3OSwxOTg3MDc5NTAz
+LC01MDg0ODkwLDIwNzQ5NDE4MDAsMTM5NzgyNjE5OCwtNDA1MD
+M5NzM1LC0zMjExOTM3NywyMDUyOTQzODEzLDEwNjIzOTk4Nzcs
+MTM4MTI5ODQ1NywxNjM0NDMzNjAzLC0xNzI2OTE4NjE1LC0xMT
+U2OTY4NDQwLC0xMjU0OTIzNzQ2LDE4Nzc5MDI4NzksMTU0NjUw
+MzczMV19
 -->
