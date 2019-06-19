@@ -26,4 +26,4 @@ $ ximage scene_v1_fc.hdr # use `l` to verify requirement 2
 $ gimp false-overlay.xcf # create overlay
 ```
 
-The source files
+The source file `scene.blend` provides the `scene.obj` export.
