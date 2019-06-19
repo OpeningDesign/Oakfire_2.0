@@ -1,0 +1,28 @@
+# ies2rad -t 2700K -m .85
+# Dimensions in meters
+#<IESNA:LM-63-2002
+#<[TEST] BALLABS TEST NO.  16735.0
+#<[TESTLAB] BUILDING ACOUSTICS & LIGHTING LABORATORIES, INC
+#<[ISSUEDATE] 18-JUN-2012
+#<[MANUFAC] TERON LIGHTING INC.
+#<[LUMCAT] GY-L10.0-40K
+#<[LUMINAIRE] 4 LED 11W 900 LUMEN LED MODULE WALL MNT AREA LUMINAIRE
+#<4.8125"DIA WHITE ACRYLIC DIFFUSER 5.5"DEEP
+#<DRIVER #IG900-DMV-1   WATTS=11.76
+#<[LAMPCAT] CREE XTE 4000K
+# 12 watt luminaire, lamp*ballast factor = 1
+
+void brightdata ginty_dist
+5 corr ginty.dat source.cal src_phi2 src_theta 
+0
+1 1.08225e+06
+
+ginty_dist light ginty_light
+0
+0
+3 1.34235 0.720864 0.171007
+
+ginty_light sphere ginty.s
+0
+0
+4 0 0 0 0.0005

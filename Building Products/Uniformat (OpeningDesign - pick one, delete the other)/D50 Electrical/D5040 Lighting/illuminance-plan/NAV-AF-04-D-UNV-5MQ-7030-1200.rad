@@ -1,0 +1,45 @@
+# ies2rad -t metal halide -m .9
+# Dimensions in meters
+#<IESNA:LM-63-2002
+#<[TEST]P196414
+#<[MORE]TEST IS SCALED FROM IESNA LM-79-08 TEST DATA (P24129)
+#<[TESTLAB]Innovations Center P2
+#<[ISSUEDATE]8/2/2018
+#<[MANUFAC] EATON - LUMARK (FORMER COOPER LIGHTING)
+#<[LUMCAT]NAV-AF-04-D-UNV-5MQ-7030-1200
+#<[LUMINAIRE]NAVION ROADWAY AND AREA LUMINAIRE
+#<[MORE](4) 70 CRI, 3000K, 1200mA LIGHTSQUARES WITH 16 LEDS EACH AND TYPE V MEDIUM OPTICS
+#<[DRIVER]ELECTRONIC DRIVER
+#<[_SEARCH_SOURCETYPE] LED
+#<[_SEARCH_CRI] 70
+#<[_SEARCH_COLORTEMP] 3000K
+#<[_SEARCH_APPLICATION]  Outdoor, Architectural, Area, Automotive, Commercial, Educational, Facade, Government, Healthcare, Hospitali
+#<ty, Hotel
+#<[MORE] Industrial, Landscape, Library, Office, Parking, Parks, Pathway, Pedestrian, Prison, Recreation, Residential
+#<[MORE] Retail, Roadway, Sidewalk, Site, Street, Substation, Security, Corrosion Resistant, Vandal Resistant, Wet Location
+#<[_SEARCH_MOUNTING] Arm, Pole
+#<[_ABSOLUTE]DATA SHOWN IS ABSOLUTE FOR THE SAMPLE PROVIDED
+#<[MORE]ABSOLUTE PHOTOMETRY IS BASED ON CALIBRATION FACTORS
+#<[MORE]CREATED USING LAB LUMEN STANDARDS IN GONIOPHOTOMETER
+#<[MORE]WITH TEST DISTANCE OF 28.75 FEET
+#<[_ABSOLUTELUMENS]27566
+# 258 watt luminaire, lamp*ballast factor = 1
+
+void brightdata NAV-AF-04-D-UNV-5MQ-7030-1200_dist
+5 flatcorr NAV-AF-04-D-UNV-5MQ-7030-1200.dat source.cal src_phi4 src_theta 
+0
+1 9.68752
+
+NAV-AF-04-D-UNV-5MQ-7030-1200_dist light NAV-AF-04-D-UNV-5MQ-7030-1200_light
+0
+0
+3 0.975429 0.771599 0.375915
+
+NAV-AF-04-D-UNV-5MQ-7030-1200_light polygon NAV-AF-04-D-UNV-5MQ-7030-1200.d
+0
+0
+12
+	-0.1524	-0.1524	-0.00025
+	-0.1524	0.1524	-0.00025
+	0.1524	0.1524	-0.00025
+	0.1524	-0.1524	-0.00025
