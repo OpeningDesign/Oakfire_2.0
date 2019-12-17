@@ -1,6 +1,8 @@
 ## Zoning parameters
 
 
+
+
 ![](zoning%20map.png)
 
 
@@ -10,7 +12,15 @@ Maximum seating capacity: 265 indoor + 64 outdoor = 329 seats rounding to 330 - 
 Rule of thumb = 1 server/25 people = 330/25 = 14 -> estimating 25/30 employees in total
 
 
+
+
+
+
+
+
 ### Project zone: B-4 PLANNED BUSINESS DISTRICT. - ZN 4.04(4)
+
+
 
 
 * All uses from B1, B2, B3 are permitted (basically anything commercial)
@@ -21,7 +31,11 @@ Rule of thumb = 1 server/25 people = 330/25 = 14 -> estimating 25/30 employees i
 	* Rear yard - not closer than forty-five (45) feet to any other lot line.
 
 
+
+
 Any construction min. 75ft from any floodline (OK - yellow lines on map above). Retention basins don't count, as not navigable
+
+
 
 ### Parking specifications - **ZN 3.06(3)**
 
@@ -30,9 +44,12 @@ Preliminary study has 132 slots
 
 * For restaurants: 3 rules must be respected:
 
-    * Min. 1 parking slots per 100sqf. Preliminary project = 12000 sqf = **120 slots**
+    *
+
+
+* For restaurants: Min. 1 parking slots per 100sqf. Preliminary project = 12000 sqf = **120 slots**
     * Larger work shift  - Min. 1 slot per worker = +/- **30 slots**
-    * Min. 1 per 3 seats at full capacity = 1/3 * 330 seats = **110 slots**
+    * Min. 1 per 3 seats at full capacity = 1/3 * 330 seats = **110 (preliminary study has 132 slots**)
 * Access lanes between slots: 24ft wide
 * Access to road: 24t to 35ft wide
 * Min. 300ft from any pedestrian entrance of universities, schools, etc
@@ -58,3 +75,6 @@ eyJoaXN0b3J5IjpbLTIwMjA3NzM5Ml19
 * Normal stall: 32x60
 * Circulation: 60 min
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTMyODI3NzI0MV19
+-->
